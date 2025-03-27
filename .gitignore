@@ -398,3 +398,17 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+venv/
+.env
+*.env.local
+
+Thumbs.db
+Desktop.ini
+
+
+.vscode/
+.idea/
+
+__pycache__/
+*.pyc
